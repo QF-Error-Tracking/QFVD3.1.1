@@ -1,0 +1,5 @@
+!QUIC 6.26
+5 !Met input flag (0=QUIC,1=WRF,2=ITT MM5,3=HOTMAC,4=HOTMAC2.0,5=QUICFULLWIND)
+"StartupFiles/qu_StartupWind00001.bin"
+"StartupFiles/qu_StartupWind00002.bin"
+"StartupFiles/qu_StartupWind00003.bin"
